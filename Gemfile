@@ -2,17 +2,8 @@ source 'https://rubygems.org'
 
 gem 'rails', '3.2.14'
 
-gem 'ninsho'
-
-gem 'omniauth-facebook'
-
-gem 'paperclip'
-gem 'aws-s3'
-gem 'aws-sdk'
-
 gem 'debugger'
 
-gem 'fb_graph'
 
 group :development, :test do
   gem 'sqlite3', '1.3.5'
